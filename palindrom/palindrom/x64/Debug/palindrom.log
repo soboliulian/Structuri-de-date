@@ -1,0 +1,3 @@
+﻿  palindrom.cpp
+C:\Users\sobol\OneDrive\Desktop\POO\palindrom\palindrom\palindrom.cpp(14,18): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+  palindrom.vcxproj -> C:\Users\sobol\OneDrive\Desktop\POO\palindrom\x64\Debug\palindrom.exe
